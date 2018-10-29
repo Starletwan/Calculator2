@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Button05">5</string>
+    <string name="Button06">6</string>
+    <string name="Button07">7</string>
+    <string name="Button08">8</string>
+    <string name="Button09">9</string>
+    <string name="_0">0</string>
+
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_2">2</string>
+
+    <string name="_1">1</string>
+
+    <string name="ButtonJia">+</string>
+    <string name="ButtonJian">-</string>
+    <string name="ButtonCheng">*</string>
+    <string name="ButtonChu">/</string>
+    <string name="ButtonDeng">=</string>
+    <string name="ButtonC">C</string>
+
+
+</resources>
