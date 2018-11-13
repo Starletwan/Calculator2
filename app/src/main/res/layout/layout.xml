@@ -11,9 +11,10 @@
         android:layout_gravity="fill"
         android:textSize="50sp"
         android:layout_columnSpan="4"
-        android:text="0"
+        android:text="@string/_0"
         android:textColor="#ff2b00"
         android:id="@+id/tv"
+        android:gravity="right"
         />
 
     <Button android:layout_width="wrap_content"
