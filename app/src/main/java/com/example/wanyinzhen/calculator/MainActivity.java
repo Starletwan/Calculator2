@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
         //初始化
         show_equation=new StringBuilder();
-        calculate_equation=new ArrayList<>();
+        calculate_equation=new ArrayList<>(); //新建了一个数组
         Button zero=(Button)findViewById(R.id.zero);
         Button one=(Button)findViewById(R.id.one);
         Button two=(Button)findViewById(R.id.two);
